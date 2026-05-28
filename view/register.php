@@ -124,7 +124,7 @@ session_start();
                         <input type="text" name="user" id="user" placeholder="Username" required>
                     </div>
 
-                    <input type="hidden" name="rol" id="rol" value="2">
+                    <input type="hidden" name="rol" id="rol" value="3">
 
                     <div class="input-box">
                         <input type="password" name="password" id="password" placeholder="Contraseña" required formnovalidate>
