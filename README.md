@@ -1,7 +1,7 @@
 # Firalia - Event Management System
 
 ## Overview
-Firalia is a web-based event management system built with PHP and MySQL. It allows users to create, read, update, and delete events, manage user profiles, and handle event dates and galleries. The system supports different user roles (Admin, Event Manager, User) with role-based access control.
+Firalia is a web-based event management system built with PHP and MySQL. It allows users to create, read, update, and delete events, manage user profiles, and handle event dates and galleries. The system supports different user roles (Admin, Event Manager, User) with role-based access control. (Copia Examen)
 
 ## Technology Stack
 - **Backend**: PHP 7.4+
